@@ -18,3 +18,5 @@ public class Astrology {
         return content;
     }
 }
+
+// This is a resource representation class to model the representation of data
