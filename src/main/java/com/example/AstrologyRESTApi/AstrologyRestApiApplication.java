@@ -11,3 +11,6 @@ public class AstrologyRestApiApplication {
 	}
 
 }
+
+// http://localhost:8080/astrology
+// http://localhost:8080/astrology?sign=Leo
